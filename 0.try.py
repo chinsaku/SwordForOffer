@@ -1,3 +1,4 @@
-aList = []
-aList.append( [] )
-print (aList)
+i = 0
+
+if i:
+    print(1)
